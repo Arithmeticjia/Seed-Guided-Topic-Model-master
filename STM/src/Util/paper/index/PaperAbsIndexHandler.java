@@ -100,8 +100,9 @@ public class PaperAbsIndexHandler {
                 } catch (Exception e) {
 
                 }
-                if (termsEnum == null)
+                if (termsEnum == null) {
                     continue;
+                }
                 // iterate each term for obtaining its tf value
                 while ((ref = termsEnum.next()) != null) {
                     termText = ref.utf8ToString();
