@@ -1,6 +1,8 @@
 package STM.src.Util;
 
-import Util.paper.index.PaperAbsIndexWriter;
+//import Util.paper.index.PaperAbsIndexWriter;
+
+import STM.src.Util.paper.index.PaperAbsIndexWriter;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

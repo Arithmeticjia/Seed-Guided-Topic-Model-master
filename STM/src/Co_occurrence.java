@@ -1,7 +1,8 @@
 package STM.src;
 
+import STM.src.Util.paper.index.PaperAbsIndexHandler;
 import Util.Dictionary;
-import Util.paper.index.PaperAbsIndexHandler;
+//import Util.paper.index.PaperAbsIndexHandler;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5d39e4e-0f2d-4c5d-ae7f-fb8df8f84e8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3238250.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Seed-Guided Topic Model for Document Filtering and Classification.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STM/src/Util/paper/index/PaperAbsIndexHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/STM/src/Util/paper/index/PaperAbsIndexHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STM/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/STM/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STM/src/LuceneIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/STM/src/LuceneIndex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +86,27 @@
       <workItem from="1590677541179" duration="1854000" />
       <workItem from="1590679531137" duration="337000" />
       <workItem from="1590679880608" duration="105000" />
-      <workItem from="1590680001421" duration="3628000" />
+      <workItem from="1590680001421" duration="5151000" />
+      <workItem from="1590766254305" duration="955000" />
+      <workItem from="1590808038801" duration="1391000" />
+      <workItem from="1590979421549" duration="2299000" />
     </task>
+    <task id="LOCAL-00001" summary="fix sth">
+      <created>1590732114463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590732114463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix sth" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix sth" />
   </component>
   <component name="WindowStateProjectService">
     <state x="380" y="23" key="#Project_Structure" timestamp="1589948791371">
@@ -115,9 +130,10 @@
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="786" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.992@0.23.1920.992" timestamp="1590027819100" />
-    <state x="317" y="23" width="846" height="825" key="CommitChangelistDialog2" timestamp="1590679649042">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="423" y="23" width="846" height="825" key="CommitChangelistDialog2" timestamp="1590732113947">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
+    <state x="423" y="23" key="CommitChangelistDialog2/-1440.401.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1590732113947" />
     <state x="317" y="23" width="846" height="825" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1590679649042" />
     <state x="529" y="338" key="Github.ShareDialog" timestamp="1590680186806">
       <screen x="0" y="23" width="1440" height="825" />
@@ -178,9 +194,10 @@
     <state x="494" y="30" key="SettingsEditor/-1440.401.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1590649606867" />
     <state x="371" y="29" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1590678539398" />
     <state x="494" y="30" key="SettingsEditor/0.23.1920.992@0.23.1920.992" timestamp="1589948641755" />
-    <state x="340" y="174" key="Vcs.Push.Dialog.v2" timestamp="1590680166163">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="453" y="205" key="Vcs.Push.Dialog.v2" timestamp="1590732115698">
+      <screen x="0" y="23" width="1920" height="992" />
     </state>
+    <state x="453" y="205" key="Vcs.Push.Dialog.v2/-1440.401.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1590732115698" />
     <state x="340" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1590680166163" />
     <state x="405" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1590674032465">
       <screen x="0" y="23" width="1440" height="823" />
